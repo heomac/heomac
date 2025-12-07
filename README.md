@@ -2,7 +2,7 @@
 ![Açıklayıcı GIF](https://camo.githubusercontent.com/19c08135103dc40d345acfb172dee18d5c18f52a00b91046da5a78473cc6f748/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3533666164305f63653037303463616130313734643661613962326238313031613632666137377e6d76322e676966)
 
 <h1 align="center">👋 Hey there, I'm Hüseyin Efe Omaç</h1>
-<h3 align="center">16 y/o Turkish Student | Aspiring Coder & Cyber Explorer</h3>
+<h3 align="center">16 y/o Turkish Student | Aspiring Coder & Cyber Explorer | Graphic Desinger </h3>
 
 ---
 
